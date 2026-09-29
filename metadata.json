@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie - AI Educational Assistant",
+  "description": "Smart Q&A, concept simplifier, interactive quiz generator, personalized learning paths, and educational summarizer powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
